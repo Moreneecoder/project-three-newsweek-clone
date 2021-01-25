@@ -8,3 +8,7 @@ The project implements the styling for the large, medium and mobile views of the
 * Html
 * CSS
 * Bootstrap
+
+# Live Link
+
+* [NewsWeek Clone] (https://moreneecoder.github.io/project-three-newsweek-clone/)
