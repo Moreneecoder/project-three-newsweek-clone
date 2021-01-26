@@ -1,4 +1,7 @@
-.body {
-  margin: 0;
-  padding: 0;
+.feature-story-image {
+  background-image: url("");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 2px 4px;
 }
