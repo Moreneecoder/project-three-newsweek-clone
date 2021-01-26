@@ -1,5 +1,17 @@
 .feature-story-image {
-  background-image: url("");
+  width: 100%;
+  height: 170px;
+  background-image: url("assets/latest-news-5.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 2px 4px;
+}
+
+.top-story-image {
+  width: 100%;
+  height: 250px;
+  background-image: url("assets/latest-news-5.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
