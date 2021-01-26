@@ -31,4 +31,4 @@ The project implements the styling for the large, medium and mobile views of the
 * Microverse
 
 ### License
-* This project is [MIT](lic.url) licensed.
+* This project is [MIT](https://opensource.org/licenses/MIT) licensed.
