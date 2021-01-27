@@ -45,6 +45,20 @@
   background-image: url("assets/latest-news-5.webp");
 }
 
+.subscribe-image {
+  width: 80%;
+  height: 200px;
+  background-image: url("assets/january-15-2021-cover.jpg");
+}
+
+.subscribe-image-2 {
+  width: 100%;
+  height: 200px;
+  background-image: url("assets/cover-january-22-2021.jpg");
+  top: 10%;
+  left: 40%;
+}
+
 .debate-item-text p {
   font-size: 0.8em;
 }
