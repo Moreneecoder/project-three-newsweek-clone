@@ -26,6 +26,11 @@
   background-image: url("assets/latest-news-5.webp");
 }
 
+.magazine-item-image {
+  height: 300px;
+  background-image: url("assets/latest-news-5.webp");
+}
+
 .debate-item-text p {
   font-size: 0.8em;
 }
