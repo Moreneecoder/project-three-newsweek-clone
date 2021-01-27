@@ -27,7 +27,21 @@
 }
 
 .magazine-item-image {
-  height: 300px;
+  height: 270px;
+  background-image: url("assets/latest-news-5.webp");
+}
+
+.magazine-item-image-1 {
+  height: 350px;
+  background-image: url("assets/latest-news-5.webp");
+}
+
+.editors-pick-item p {
+  font-size: 14px;
+}
+
+.editors-pick-image {
+  height: 200px;
   background-image: url("assets/latest-news-5.webp");
 }
 
