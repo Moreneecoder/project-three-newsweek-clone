@@ -12,27 +12,18 @@
 }
 
 .top-story-image {
-  height: 250px;
+  height: 300px;
   background-image: url("assets/latest-news-5.webp");
-}
-
-.my-turn-item a {
-  text-decoration: none;
 }
 
 .myturn-image {
   height: 150px;
   background-image: url("assets/latest-news-5.webp");
-  text-decoration: none;
 }
 
 .culture-travel-image {
   height: 150px;
   background-image: url("assets/latest-news-5.webp");
-}
-
-.culture-travel-item a {
-  text-decoration: none;
 }
 
 .debate-item-text p {
@@ -50,10 +41,28 @@
   margin-top: 0.5px;
 }
 
-.top-story-text a,
+.debate-item-text a,
+.opinion-item-text a {
+  font-size: 14px;
+}
+
+.top-story-text a {
+  font-size: 1.3em;
+  color: black;
+}
+
+.opinion-item-text p,
+.opinion-item-text p a {
+  font-size: 12px;
+}
+
 .feature-story-item div:last-child a {
   font-size: 1.3em;
   color: black;
+}
+
+.sponsored-text p {
+  font-size: 0.8em;
 }
 
 .more-stories-item article p,
@@ -71,6 +80,14 @@
 }
 
 .vs {
-  bottom: 42%;
+  bottom: 45%;
   left: 45%;
+}
+
+.free-signup-img {
+  height: 65%;
+}
+
+.free-signup {
+  background-color: lightgray;
 }
