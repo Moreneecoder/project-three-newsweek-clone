@@ -21,6 +21,10 @@
   margin: 2px 4px;
 }
 
+.search-form input {
+  width: 57px;
+}
+
 .feature-story-image {
   height: 170px;
   background-image: url("assets/latest-news-5.webp");
@@ -136,7 +140,7 @@
 }
 
 .vs {
-  bottom: 45%;
+  top: calc(30% + 20px);
   left: 45%;
 }
 
