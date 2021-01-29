@@ -22,9 +22,14 @@
 }
 
 .black-nav-link,
-.white-nav-link {
+.white-nav-link,
+.website-logo {
   color: black;
   transition: 0.5s;
+}
+
+.website-logo:hover {
+  transform: rotate(360deg);
 }
 
 .black-nav-link:hover,
