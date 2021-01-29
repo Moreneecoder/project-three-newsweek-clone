@@ -163,3 +163,17 @@
 .newsletter-form input:first-child {
   font-size: 0.9em;
 }
+
+#rotating-logo {
+  -webkit-animation: rotation 7s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+  from {
+  -webkit-transform: rotate(0deg);
+  } 
+  to {
+    -webkit-transform: rotate(359deg);
+  }
+}
+
