@@ -21,6 +21,18 @@
   margin: 2px 4px;
 }
 
+.black-nav-link,
+.white-nav-link {
+  color: black;
+  transition: 0.5s;
+}
+
+.black-nav-link:hover,
+.white-nav-link:hover {
+  color: red;
+  font-size: 1.1em;
+}
+
 .search-form input {
   width: 57px;
 }
@@ -28,11 +40,23 @@
 .feature-story-image {
   height: 170px;
   background-image: url("assets/latest-news-5.webp");
+  transition: width 0.5s, height 0.5s;
 }
 
 .top-story-image {
   height: 300px;
   background-image: url("assets/latest-news-5.webp");
+  transition: width 0.5s, height 0.5s;
+}
+
+.feature-story-image:hover {
+  width: 110%;
+  height: 250px;
+}
+
+.top-story-image:hover {
+  width: 105%;
+  height: 350px;
 }
 
 .myturn-image {
