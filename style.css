@@ -1,0 +1,165 @@
+.newsletter-image {
+  height: 170px;
+  background-image: url("https://d.newsweek.com/en/full/1541302/starting5-homepage.png?w=397&amp;h=265&amp;q=90&amp;f=742bce9a6f72dd8f19ba2e7fd5db06e5");
+}
+
+@media only screen and (min-width: 768px) {
+  .newsletter-image {
+    height: 100%;
+  }
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.background-image-style {
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 2px 4px;
+}
+
+.search-form input {
+  width: 57px;
+}
+
+.feature-story-image {
+  height: 170px;
+  background-image: url("assets/latest-news-5.webp");
+}
+
+.top-story-image {
+  height: 300px;
+  background-image: url("assets/latest-news-5.webp");
+}
+
+.myturn-image {
+  height: 150px;
+  background-image: url("assets/latest-news-5.webp");
+}
+
+.culture-travel-image {
+  height: 150px;
+  background-image: url("assets/latest-news-5.webp");
+}
+
+.magazine-item-image {
+  height: 270px;
+  background-image: url("assets/latest-news-5.webp");
+}
+
+.magazine-item-image-1 {
+  height: 350px;
+  background-image: url("assets/latest-news-5.webp");
+}
+
+.editors-pick-item p {
+  font-size: 14px;
+}
+
+.editors-pick-image {
+  height: 200px;
+  background-image: url("assets/latest-news-5.webp");
+}
+
+.subscribe-image {
+  width: 80%;
+  height: 200px;
+  background-image: url("assets/january-15-2021-cover.jpg");
+}
+
+.subscribe-image-2 {
+  width: 100%;
+  height: 200px;
+  background-image: url("assets/cover-january-22-2021.jpg");
+  top: 10%;
+  left: 40%;
+}
+
+.news-letter-wrapper {
+  height: 90%;
+}
+
+.debate-item-text p {
+  font-size: 0.8em;
+}
+
+.debate-column-1 {
+  border-top: 3px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
+}
+
+.debate-column-2 {
+  border-top: 1px solid lightgrey;
+  border-bottom: 3px solid lightgrey;
+  margin-top: 0.5px;
+}
+
+.debate-item-text a,
+.opinion-item-text a {
+  font-size: 14px;
+}
+
+.top-story-text a {
+  font-size: 1.3em;
+  color: black;
+}
+
+.opinion-item-text p,
+.opinion-item-text p a {
+  font-size: 12px;
+}
+
+.feature-story-item div:last-child a {
+  font-size: 1.3em;
+  color: black;
+}
+
+.sponsored-text p {
+  font-size: 0.8em;
+}
+
+.newsletter-text p {
+  font-size: 12px;
+}
+
+.more-stories-item article p,
+.latest-news-item article p {
+  font-size: 14px;
+}
+
+.story-type {
+  bottom: 0;
+  left: 0;
+}
+
+.culture-hero {
+  font-size: 13px;
+}
+
+.vs {
+  top: calc(30% + 20px);
+  left: 45%;
+}
+
+.section-title {
+  color: red;
+}
+
+.free-signup-img {
+  height: 65%;
+}
+
+.free-signup {
+  background-color: lightgray;
+}
+
+.newsletter-form input {
+  min-width: 0;
+}
+
+.newsletter-form input:first-child {
+  font-size: 0.9em;
+}
